@@ -41,16 +41,16 @@ Interface graphique professionnelle :
 
 . INSERSION DES DONNEES DANS L'APPLICATION
 
-<img width="662" alt="Trois" src="https://github.com/user-attachments/assets/ee302c4a-6582-42f1-bd09-f532d4ff5c02">
-<img width="596" alt="Quatre" src="https://github.com/user-attachments/assets/faa6812b-b00b-4ee9-af9d-8cb028383e97">
-<img width="634" alt="Cinq" src="https://github.com/user-attachments/assets/67495a2a-3e83-4593-ac97-592e887652a2">
-<img width="302" alt="neuf" src="https://github.com/user-attachments/assets/da3f2541-7466-4c3d-8803-f18633801fc1">
+<img width="662" alt="Trois" src="https://github.com/user-attachments/assets/ee302c4a-6582-42f1-bd09-f532d4ff5c02" height="300" width="200">
+<img width="596" alt="Quatre" src="https://github.com/user-attachments/assets/faa6812b-b00b-4ee9-af9d-8cb028383e97" height="300" width="200">
+<img width="634" alt="Cinq" src="https://github.com/user-attachments/assets/67495a2a-3e83-4593-ac97-592e887652a2" height="300" width="200">
+<img width="302" alt="neuf" src="https://github.com/user-attachments/assets/da3f2541-7466-4c3d-8803-f18633801fc1"height="300" width="200">
 
 
 . DONNEES ENREGISTRER DANS LA BASE DE DONNEES
    
-<img width="758" alt="six" src="https://github.com/user-attachments/assets/9f5cf0cd-8c4a-4d8c-ab32-c344d699bc42">
+<img width="758" alt="six" src="https://github.com/user-attachments/assets/9f5cf0cd-8c4a-4d8c-ab32-c344d699bc42" height="300" width="200">
 
-<img width="377" alt="sept" src="https://github.com/user-attachments/assets/ae8efa66-29e2-44f1-a009-9621d62f4f57">
+<img width="377" alt="sept" src="https://github.com/user-attachments/assets/ae8efa66-29e2-44f1-a009-9621d62f4f57" height="300" width="200">
 
-<img width="326" alt="huit" src="https://github.com/user-attachments/assets/883761f2-61a6-4e1a-ac95-5e9663623298">
+<img width="326" alt="huit" src="https://github.com/user-attachments/assets/883761f2-61a6-4e1a-ac95-5e9663623298" height="300" width="200">
