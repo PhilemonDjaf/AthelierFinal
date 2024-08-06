@@ -8,6 +8,4 @@ Cette application Java permet de gérer un parc de véhicules via une interface 
 - **Afficher tous les véhicules** : Visualisez la liste complète des véhicules.
 - **Compter les véhicules** : Obtenez le nombre de véhicules par type.
 
-- ## Installation
 
-Clonez le dépôt et importez le projet dans IntelliJ IDEA ou un autre IDE Java.
