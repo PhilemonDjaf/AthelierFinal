@@ -53,4 +53,4 @@ Interface graphique professionnelle :
 
 <img width="377" alt="sept" src="https://github.com/user-attachments/assets/ae8efa66-29e2-44f1-a009-9621d62f4f57" height="300" width="200">
 
-<img width="326" alt="huit" src="https://github.com/user-attachments/assets/883761f2-61a6-4e1a-ac95-5e9663623298" height="300" width="200">
+<img width="326" alt="huit" src="https://github.com/user-attachments/assets/883761f2-61a6-4e1a-ac95-5e9663623298" height="300" width="30">
