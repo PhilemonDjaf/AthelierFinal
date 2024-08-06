@@ -27,4 +27,5 @@ Gestion des exceptions :
 
 L'application gère toutes les exceptions possibles et inclut au moins une exception personnalisée pour améliorer la robustesse.
 Interface graphique professionnelle :
+<img width="659" alt="deux" src="https://github.com/user-attachments/assets/d29dbeba-f994-4e72-9e1e-715c942a0f0d">
 
