@@ -36,7 +36,7 @@ Interface graphique professionnelle :
 . SELECTION DES VEHICULES
    
    
-<img width="659" alt="deux" src="https://github.com/user-attachments/assets/41f806a4-998d-443e-8919-b8cc7408f163">
+<img width="659" alt="deux" src="https://github.com/user-attachments/assets/41f806a4-998d-443e-8919-b8cc7408f163" height="300" width="200">
 
 
 . INSERSION DES DONNEES DANS L'APPLICATION
@@ -48,4 +48,5 @@ Interface graphique professionnelle :
 . DONNEES ENREGISTRER DANS LA BASE DE DONNEES
    
 <img width="758" alt="six" src="https://github.com/user-attachments/assets/9f5cf0cd-8c4a-4d8c-ab32-c344d699bc42">
-
+<img width="377" alt="sept" src="https://github.com/user-attachments/assets/ae8efa66-29e2-44f1-a009-9621d62f4f57">
+<img width="326" alt="huit" src="https://github.com/user-attachments/assets/883761f2-61a6-4e1a-ac95-5e9663623298">
