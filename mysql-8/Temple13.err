@@ -1,0 +1,20 @@
+2024-08-05T21:35:19.835492Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-08-05T21:35:19.835807Z 0 [System] [MY-013169] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe (mysqld 8.0.30) initializing of server in progress as process 1860
+2024-08-05T21:35:19.951310Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-08-05T21:35:20.356629Z 1 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2024-08-05T21:35:20.361321Z 1 [ERROR] [MY-012639] [InnoDB] Write to file .\#innodb_temp\temp_1.ibt failed at offset 0, 81920 bytes should have been written, only 0 were written. Operating system error number 2. Check that your OS and file system support files of this size. Check also that the disk is not full or a disk quota exceeded.
+2024-08-05T21:35:20.366257Z 1 [ERROR] [MY-012640] [InnoDB] Error number 2 means 'No such file or directory'
+2024-08-05T21:35:20.367114Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2024-08-05T21:35:20.367396Z 1 [ERROR] [MY-012129] [InnoDB] Could not write the first page to tablespace '.\#innodb_temp\temp_1.ibt'
+2024-08-05T21:35:20.368167Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo12_tmp to 3 MB (Failed to set size)
+2024-08-05T21:35:20.371005Z 1 [ERROR] [MY-012929] [InnoDB] InnoDB Database creation was aborted with error Out of disk space. You may need to delete the ibdata1 file before trying to start up again.
+2024-08-05T21:35:20.374672Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2024-08-05T21:35:20.375854Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo12_tmp to 3 MB (Failed to set size)
+2024-08-05T21:35:20.382657Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2024-08-05T21:35:20.383895Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo12_tmp to 3 MB (Failed to set size)
+2024-08-05T21:35:20.387513Z 0 [Warning] [MY-012638] [InnoDB] Retry attempts for writing partial data failed.
+2024-08-05T21:35:20.388793Z 0 [ERROR] [MY-012888] [InnoDB] Cannot resize redo log file .\#innodb_redo\#ib_redo12_tmp to 3 MB (Failed to set size)
+2024-08-05T21:35:20.446453Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-08-05T21:35:20.447517Z 0 [ERROR] [MY-013236] [Server] The designated data directory C:\Users\dell\IdeaProjects\demo\mysql-8\ is unusable. You can remove all files that the server added to it.
+2024-08-05T21:35:20.448604Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-08-05T21:35:20.457229Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
